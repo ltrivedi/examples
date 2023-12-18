@@ -1,2 +1,2 @@
 # examples
-Examples of Concourse workflows from my repo
+Examples of Concourse workflows
